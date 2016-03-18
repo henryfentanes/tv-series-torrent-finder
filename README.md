@@ -24,6 +24,11 @@ After that take a look at the options with `python downloader.py`, to run should
 as be easy as `python downloader.py run` but before you do that,
 take the time to configure your watchlist.
 
+> **Note**:
+> If you're on Windows OS and don't care about installing python requests and
+> beautifulsoup on you main python setup, you can just use the batch files
+> in the contrib folder, to Setup and Run the app.
+
 ### The Watchlist
 
 is a json file in the app's folder called watchlist.json and it looks like this:
