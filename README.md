@@ -8,6 +8,10 @@ Already past that and getting tired of searching torrent webpages ?
 
 This app is for you :)
 
+# Disclaimer:
+Note that this app was made for the purpose of studying. If you plan on using it to really download tv shows,
+be warned that it should infringe tv shows copyrights, therefore, use it by your own responsability.
+
 ### What it does:
 
 The app aims to search your entire watchlist for new episodes, and then, you
